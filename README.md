@@ -50,7 +50,8 @@
         "type": "git",
         "url": "git://github.com/Swizec/nodestagram.git"
     },
-    "version": "0.0.4"
+    "version": "0.0.4",
+    "bin": {}
 }
 ```
 
